@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "book-catalog-sqlite",
+      "title": "Book Catalog API with SQLite",
+      "description": "Extend a FastAPI book catalog with SQLite persistence and complete CRUD operations.",
+      "path": "assignments/book-catalog-sqlite",
+      "dueDate": "2026-11-02",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
